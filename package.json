@@ -1,0 +1,26 @@
+{
+  "name": "raspberrypi",
+  "types": ["pack"],
+  "version": "1.0",
+  "homepage": "https://github.com/Frescha/pack-raspberrypi",
+  "author": "Jean Gabes",
+  "description": "Standard checks",
+  "contributors": [
+    {
+    "name": "Andreas Karfusehr",
+    "email": "andreas.karfusehr@gmail.com"
+    }
+  ],
+  "repository": "https://github.com/Frescha/pack-raspberrypi",
+  "keywords": [
+    "pack",
+    "linux",
+    "raspberrypi",
+    "server",
+    "os"
+  ],
+  "dependencies": {
+    "shinken": ">=1.4"
+  },
+  "license": "AGPL"
+}
